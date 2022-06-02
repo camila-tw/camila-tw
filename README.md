@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ![](https://raw.githubusercontent.com/camila-tw/camila-tw/main/assets/github-contribution-grid-snake.svg)
-[![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camila-tw&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camila-tw&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camila-tw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![](https://visitor-badge.glitch.me/badge?page_id=camila-tw)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=camila-tw) -->
 
 <!--
 **camila-tw/camila-tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
