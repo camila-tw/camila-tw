@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/camila-tw/camila-tw/main/assets/github-contribution-grid-snake.svg)
+
 <!--
 **camila-tw/camila-tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
