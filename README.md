@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- 語言統計 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camila-tw&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camila-tw&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
